@@ -1,0 +1,22 @@
+Lettre de motivation :
+
+Parler de : 
+	compétences en informatique, ajouter comme preuves le github des dotfiles
+	motivation et intêret pour l'intégration de la filière
+
+		Spécifiquement pour le BUT de Clermont : 
+			dire que j'ai été aux portes ouvertes
+			intéréssement par le parcours sécurisé dans l'objectif de poursuite d'étude après le BUT au sein de isima (ou autre école d'ingé mais pas le dire) 
+			éventuellement aborder les projets de stage pour la seconde année et l'alternance pour la troisième.
+	
+	
+	
+
+Lettre pour BTS SIO Sidoine Appolinaire : 
+	Bonjour Madame, Monsieur, actuellement élève en terminale STMG avec spécialité SIG,
+	je suis très intéréssé par l'intégration du BTS SIO du lycée Sidoine Appolinaire. Ce choix est motivé par ma passion pour l'informatique et le développement.
+	J'ai déjà quelques connaissances sur le sujet, je suis passionné surtout par linux que j'utilise comme OS principal et que je configure à l'envie en apprenant par
+	la même occasion les bases de certains languages de programmation, j'aime beaucoup configurer linux afin de modifier son apparence et le fontionnement de mon système 
+	afin qu'il corresponde à la vision que j'en ai. Voici pour exemple ce que je réalise : lien de mon repo github avec mes dotfiles : https://github.com/Nielaser/dotfiles.
+	Intégrer cette formation sera une occasion pour moi de déveloper mes connaissances sur le sujet et de continuer a étudier ma passion.
+
